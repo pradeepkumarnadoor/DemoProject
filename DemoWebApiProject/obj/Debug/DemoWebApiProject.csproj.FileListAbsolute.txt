@@ -165,7 +165,6 @@ C:\Pradeep\DemoWebApiProject\DemoProject\DemoWebApiProject\bin\System.Web.WebPag
 C:\Pradeep\DemoWebApiProject\DemoProject\DemoWebApiProject\bin\System.Web.WebPages.Razor.xml
 C:\Pradeep\DemoWebApiProject\DemoProject\DemoWebApiProject\bin\Antlr3.Runtime.pdb
 C:\Pradeep\DemoWebApiProject\DemoProject\DemoWebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Pradeep\DemoWebApiProject\DemoProject\DemoWebApiProject\obj\Debug\DemoWebApiProject.csprojAssemblyReference.cache
 C:\Pradeep\DemoWebApiProject\DemoProject\DemoWebApiProject\obj\Debug\DemoWebApiProject.csproj.CoreCompileInputs.cache
 C:\Pradeep\DemoWebApiProject\DemoProject\DemoWebApiProject\obj\Debug\DemoWebApiProject.csproj.CopyComplete
 C:\Pradeep\DemoWebApiProject\DemoProject\DemoWebApiProject\obj\Debug\DemoWebApiProject.dll
